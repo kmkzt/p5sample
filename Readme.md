@@ -8,5 +8,10 @@ npm install -g parcel-bundler
 
 start development
 ```
-percel watch ./src/index.html
+npm run dev
+```
+
+production build
+```
+npm run build
 ```
